@@ -2,10 +2,11 @@ h4, h5, h6,
 h1, h2, h3 {margin: 0;}
 ul, ol, li{margin: 0;padding:0;}
 p {margin: 0;}
+a{color:#000000;}
 body{
 	margin:0;
 	padding:0;
-	font-family: OpenSans-Regular;
+	font-family:微软雅黑;
 }
 
 /*--fonts--*/
@@ -124,14 +125,14 @@ li.las a {
 	overflow:hidden;
 }
 .logo {
-  float: left;
+    float: left;
     width: 33.33%;
-	
+    margin-top:-1.5em;
 }
 .ad-ph {
     float: right;
     width: 33.33%;
-    padding: 0 0 0 16em;
+    padding: 0 0 0 6em;
 }
 .ad-ph p {
     color: #020202;
