@@ -1,0 +1,5 @@
+.cj-company-theme1 .contain{max-width: 1024px;width:100%;display: inline-block;}
+body,html{margin:0;padding:0;width:100%;height:100%;background-color: #eee;}
+.round-contain{display:inline-block;margin:2em 0;cursor:pointer;position: relative;width:10em;height:10em;border-radius: 50%;background-color: #ccc;}
+.round-contain:hover .round-modal{cursor: pointer;position: absolute;width:10em;height: 10em;border-radius: 50%;background-color: rgba(255,255,255,0.3)}
+.page-footer{background-color: #222;color:#333;margin:0 -15px;height:15em;}
